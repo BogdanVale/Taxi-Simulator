@@ -143,7 +143,7 @@ INFO: Driver with id 3 and car 3 starts moving from Place{address='077 Autumn Le
 mai 22, 2021 9:11:57 P.M. Simulator.MoveForClient run
 INFO: Driver with id 3 and car 3 finished moving from Place{address='077 Autumn Leaf Place', id=1} towards Place{address='3415 Hayes Plaza', id=5}
 mai 22, 2021 9:11:57 P.M. Simulator.MoveForClient run
-INFO: Driver with id 3 and car 3 starts moving from Place{address='3415 Hayes Plaza', id=5} towards Place{address='2922 Jana Parkway', id=9}
+INFO: Driver with id 3 and car 3 azastarts moving from Place{address='3415 Hayes Pl', id=5} towards Place{address='2922 Jana Parkway', id=9}
 mai 22, 2021 9:12:02 P.M. Simulator.MoveForClient run
 INFO: Driver with id 3 and car 3 finished moving from Place{address='3415 Hayes Plaza', id=5} towards Place{address='2922 Jana Parkway', id=9}
 mai 22, 2021 9:12:02 P.M. Simulator.MoveForClient run
