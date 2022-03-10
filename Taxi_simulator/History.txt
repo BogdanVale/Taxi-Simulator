@@ -2590,3 +2590,43 @@ Mar 06, 2022 2:42:21 PM Simulator.MoveForClient run
 INFO: Driver with id 3 and car 3 finished moving from Place{address='2 Banding Junction', id=15} towards Place{address='874 Cardinal Center', id=20}
 Mar 06, 2022 2:42:21 PM Simulator.MoveForClient run
 INFO: Driver has dropped client at destination in 5 minutes(seconds actually) since pick up
+Mar 10, 2022 8:50:55 AM Simulator.Move run
+INFO: Driver with id 2 and car 2 starts moving from Place{address='72 Commercial Circle', id=17} towards Place{address='3415 Hayes Plaza', id=5}
+Mar 10, 2022 8:50:55 AM Simulator.Move run
+INFO: Driver with id 3 and car 3 starts moving from Place{address='72 Commercial Circle', id=17} towards Place{address='2 Banding Junction', id=15}
+Mar 10, 2022 8:50:55 AM Simulator.Move run
+INFO: Driver with id 1 and car 1 starts moving from Place{address='72 Commercial Circle', id=17} towards Place{address='2 Banding Junction', id=15}
+Mar 10, 2022 8:50:55 AM Simulator.Move run
+INFO: Driver with id 4 and car 4 starts moving from Place{address='72 Commercial Circle', id=17} towards Place{address='2 Banding Junction', id=15}
+Mar 10, 2022 8:50:56 AM Simulator.Move run
+INFO: Driver with id 4 and car 4 finished moving from Place{address='72 Commercial Circle', id=17} towards Place{address='2 Banding Junction', id=15}
+Mar 10, 2022 8:50:56 AM Simulator.Move run
+INFO: Driver with id 3 and car 3 finished moving from Place{address='72 Commercial Circle', id=17} towards Place{address='2 Banding Junction', id=15}
+Mar 10, 2022 8:50:56 AM Simulator.Move run
+INFO: Driver with id 1 and car 1 finished moving from Place{address='72 Commercial Circle', id=17} towards Place{address='2 Banding Junction', id=15}
+Mar 10, 2022 8:50:56 AM Simulator.Move run
+INFO: Driver with id 3 and car 3 starts moving from Place{address='2 Banding Junction', id=15} towards Place{address='84095 Westport Drive', id=4}
+Mar 10, 2022 8:50:56 AM Simulator.Move run
+INFO: Driver with id 4 and car 4 starts moving from Place{address='2 Banding Junction', id=15} towards Place{address='874 Cardinal Center', id=20}
+Mar 10, 2022 8:50:56 AM Simulator.Move run
+INFO: Driver with id 1 and car 1 starts moving from Place{address='2 Banding Junction', id=15} towards Place{address='84095 Westport Drive', id=4}
+Mar 10, 2022 8:50:58 AM Simulator.Move run
+INFO: Driver with id 2 and car 2 finished moving from Place{address='72 Commercial Circle', id=17} towards Place{address='3415 Hayes Plaza', id=5}
+Mar 10, 2022 8:50:58 AM Simulator.Move run
+INFO: Driver with id 2 and car 2 starts moving from Place{address='3415 Hayes Plaza', id=5} towards Place{address='410 Merrick Park', id=16}
+Mar 10, 2022 8:50:58 AM Simulator.Move run
+INFO: Driver with id 3 and car 3 finished moving from Place{address='2 Banding Junction', id=15} towards Place{address='84095 Westport Drive', id=4}
+Mar 10, 2022 8:50:58 AM Simulator.Move run
+INFO: Driver with id 1 and car 1 finished moving from Place{address='2 Banding Junction', id=15} towards Place{address='84095 Westport Drive', id=4}
+Mar 10, 2022 8:50:58 AM Simulator.Move run
+INFO: Driver with id 3 and car 3 starts moving from Place{address='84095 Westport Drive', id=4} towards Place{address='77 Oak Trail', id=19}
+Mar 10, 2022 8:50:59 AM Simulator.Move run
+INFO: Driver with id 2 and car 2 finished moving from Place{address='3415 Hayes Plaza', id=5} towards Place{address='410 Merrick Park', id=16}
+Mar 10, 2022 8:50:59 AM Simulator.Move run
+INFO: Driver with id 3 and car 3 finished moving from Place{address='84095 Westport Drive', id=4} towards Place{address='77 Oak Trail', id=19}
+Mar 10, 2022 8:51:00 AM Simulator.Move run
+INFO: Driver with id 4 and car 4 finished moving from Place{address='2 Banding Junction', id=15} towards Place{address='874 Cardinal Center', id=20}
+Mar 10, 2022 8:51:00 AM Simulator.Move run
+INFO: Driver with id 4 and car 4 starts moving from Place{address='874 Cardinal Center', id=20} towards Place{address='0210 Springs Court', id=13}
+Mar 10, 2022 8:51:01 AM Simulator.Move run
+INFO: Driver with id 4 and car 4 finished moving from Place{address='874 Cardinal Center', id=20} towards Place{address='0210 Springs Court', id=13}
